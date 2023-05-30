@@ -10,6 +10,7 @@
 }
 
 
+
 .h5, h5 {
     font-size: 1.56rem;
 }
@@ -59,4 +60,12 @@
 
 .option, .discount{
     font-weight: bold;
+}
+
+.border-2 {
+    border-width: 3px!important;
+}
+
+.justify-content-around {
+    justify-content: center!important;
 }
